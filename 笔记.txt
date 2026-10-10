@@ -1,0 +1,1 @@
+NAND 与非门 no+and
